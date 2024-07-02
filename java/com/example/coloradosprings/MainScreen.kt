@@ -41,7 +41,7 @@ fun ColoradoSpringsAppBar(
     modifier: Modifier = Modifier
 ) {
     TopAppBar(
-        title = { Text("Josiah Potts - Assignment 4") },
+        title = { Text("City Recommendation App") },
         colors = TopAppBarDefaults.mediumTopAppBarColors(
             containerColor = Color.White
         ),
